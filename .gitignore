@@ -1,0 +1,9 @@
+# catkin tools
+.catkin_tools
+build
+devel
+install
+logs
+
+# JetBrains
+.idea
