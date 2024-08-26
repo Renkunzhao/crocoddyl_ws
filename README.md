@@ -2,7 +2,7 @@
 - This repository provide Dockerfile and scripts to build crocoddyl from source easily
 - Click to watch the video
 
-[![Watch the video](https://img.youtube.com/vi/IrcCegoCYzk/0.jpg)](https://www.youtube.com/watch?v=IrcCegoCYzk)
+[![Example GIF](./bipedal_walk_invdyn.gif)](https://www.youtube.com/watch?v=IrcCegoCYzk)
 
 # Build & run docker container 
 ```bash
