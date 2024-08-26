@@ -1,6 +1,14 @@
 # Description
 - This repository provide Dockerfile and scripts to build crocoddyl from source easily
 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=IrcCegoCYzk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div align="center">
+    <a href="https://www.youtube.com/watch?v=IrcCegoCYzk" target="_blank">
+        <img src="https://img.youtube.com/vi/IrcCegoCYzk/0.jpg" alt="Watch the video" style="width:80%; max-width:600px;">
+    </a>
+</div>
+
 # Build & run docker container 
 ```bash
 ./scripts/start-ws.sh
@@ -32,5 +40,5 @@ conda activate crocoddyl_ws
 conda install -y -c conda-forge crocoddyl cppadcodegen gepetto-viewer-corba meshcat-python matplotlib
 ```
 
-Issue
+# Issue
 1. gepetto-viewer、gepetto-viewer-corba can't build successfully
